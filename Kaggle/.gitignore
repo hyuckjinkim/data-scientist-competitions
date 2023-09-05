@@ -1,0 +1,64 @@
+# user defined
+.DS_Store
+**/.ipynb_checkpoints/
+**/pip-packages/
+**/._*
+
+*.cbm
+*.pt
+*.tfevents
+*.tfrec
+*.model
+*.tmp
+*.h5
+*.pb
+*.index
+*.npy
+*.obs_
+
+*.zip
+*.tar
+*.csv
+*.xlsx
+*.tsv
+
+*.png
+*.jpeg
+*.jpg
+
+*.parquet
+*.json
+*.pickle
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos in
