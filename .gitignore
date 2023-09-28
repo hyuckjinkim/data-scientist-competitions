@@ -8,6 +8,7 @@ __pycache__/
 *.so
 
 # modeling files
+*.t2v
 *.cbm
 *.pt
 *.tfevents
