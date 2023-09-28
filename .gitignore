@@ -1,3 +1,6 @@
+# virtual env
+env/
+
 # not used folder
 **/._*
 .DS_Store
