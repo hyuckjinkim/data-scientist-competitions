@@ -5,3 +5,12 @@
 - [Dacon](https://dacon.io/)
 - [DataHack](https://datahack.analyticsvidhya.com/)
 - [AI Connect](https://aiconnect.kr/)
+
+## Virtual Environment
+```
+# 가상환경 생성
+conda create --name torch_env python=3.10
+
+# 가상환경 접근
+conda activate torch_env
+```
