@@ -5,6 +5,8 @@
 .venv/
 
 # not used folder
+*.hwp
+*.jpkg
 **/._*
 .DS_Store
 .ipynb_checkpoints/
