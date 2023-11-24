@@ -6,7 +6,7 @@
 
 # not used folder
 *.hwp
-*.jpkg
+*.gpkg
 **/._*
 .DS_Store
 .ipynb_checkpoints/
