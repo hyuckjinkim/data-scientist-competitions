@@ -1,5 +1,5 @@
 # Autogluon model checkpoints
-AutogluonModels/
+**/AutogluonModels/
 
 # virtual env
 .venv/
