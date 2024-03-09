@@ -3,7 +3,7 @@
 ## Data-Scientist Competition Sites
 - [Kaggle](https://www.kaggle.com/competitions/)
 - [Dacon](https://dacon.io/)
-- [DataHack-AnalyticsVidhya](https://datahack.analyticsvidhya.com/)
+- [AnalyticsVidhya-DataHack](https://datahack.analyticsvidhya.com/)
 - [AI Connect](https://aiconnect.kr/)
 
 ## Virtual Environment
